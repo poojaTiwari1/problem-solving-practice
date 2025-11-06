@@ -8,7 +8,7 @@
 
 const nums = [15, 3, 4, 3];
 const target = 6;
-// Output: [0, 1]
+// Output: [1, 3]
 
 // var twoSum = function (nums, target) {
 //     for (let i = 0; i < nums.length; i++) {
