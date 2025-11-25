@@ -1,11 +1,11 @@
-// const strs = ["flower", "flow", "flight"];
-// // Output: "fl"
+const strs = ["flower", "flow", "flight"];
+// Output: "fl"
 
 // const strs = ["dog","racecar","car"];
 // // Output: ""
 
-const strs = ["fdog","doracecar","dogcador"];
-// Output: ""
+// const strs = ["fdog","doracecar","dogcador"];
+// // Output: ""
 
 const longestCommonPrefix = function (str) {
     let commonPrefix = "";
